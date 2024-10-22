@@ -1,5 +1,5 @@
 {
-    const name = "Деев Леонид Русланович";
+    const name = "Баталова Надежда Романовна";
     const element = document.querySelector("#name");
     if (element)
     {
